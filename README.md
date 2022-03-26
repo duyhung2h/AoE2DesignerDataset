@@ -41,8 +41,6 @@ How to use:
 
 - Restart the game after finishing your download for all of your mod files to work properly!
 - After accessing your scenario editor tab, click on the dropdown list located on the bottom right corner, and choose Designers Dataset - Unlock all hidden units in the editor (post version Dawn of the Dukes), and load your scenario to work with.
-![image](https://user-images.githubusercontent.com/40296674/160127306-cf25710a-715e-44b9-be62-f25311cfb338.png)
-
 
 ![image](https://user-images.githubusercontent.com/40296674/160127757-06f5712d-f79a-40de-8d0c-8615acb7ff26.png)
 
