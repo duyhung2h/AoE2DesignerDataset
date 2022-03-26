@@ -54,7 +54,7 @@ Some other note:
 - Make sure to set your game language to English, otherwise hidden units won't be shown. I'll try to support this datamod for different languages in the future.
 - Any duplicate units are reasonably explained (for example, hidden legacy objects like "Queen (hidden)"). For now, there are still some leftover duplicated units left (which are mostly just props), which will get updated over time to be classified.
 - Place corpses/rubbles in your map with GAIA player, otherwise they would decay over time.
-- Invisible units that I've changed their graphics data for my designing needs are: 94, 436, 438. Invisible when vanilla datamod is used.
+- Invisible units that I've changed their graphics data for my designing needs are: 94, 436, 438. Idle, attack and moving animations are included in. Invisible when vanilla datamod is used.
 
 
 ![image](https://user-images.githubusercontent.com/40296674/160221787-9dcbeb1d-8ac7-49cb-a354-142187cb14a3.png)
